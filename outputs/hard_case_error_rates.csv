@@ -1,0 +1,10 @@
+tag,test items,error % VADER,error % Extended lexicon,error % Linear SVM
+negation,290,55.5,40.3,8.3
+sarcasm,45,97.8,97.8,6.7
+mixed,214,55.1,40.7,27.1
+code_switch,412,59.7,25.7,10.9
+typo_slang,115,54.8,36.5,8.7
+emoji,418,37.3,24.2,5.5
+ambiguous,46,56.5,56.5,58.7
+(no hard-case tag),720,47.9,26.8,5.4
+ALL test items,1829,50.8,30.5,9.1

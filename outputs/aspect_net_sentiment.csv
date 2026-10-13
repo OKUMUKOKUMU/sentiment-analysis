@@ -1,0 +1,7 @@
+aspect,mentions (detected),% negative,net sentiment (predicted),net sentiment (gold)
+availability,1211,66.8,-44.8,-38.8
+price_value,1481,61.0,-32.8,-31.9
+packaging,1622,56.0,-24.1,-20.2
+delivery_service,1723,49.4,-14.6,-17.7
+freshness_expiry,1920,53.7,-14.5,-12.9
+taste_quality,2060,22.3,47.5,48.4

@@ -1,0 +1,7 @@
+aspect,gold mentions,detected,precision,recall,F1
+taste_quality,2342,2060,0.946,0.832,0.885
+freshness_expiry,1894,1920,0.982,0.995,0.988
+price_value,1544,1481,1.0,0.959,0.979
+packaging,1401,1622,0.858,0.993,0.92
+availability,1255,1211,0.999,0.964,0.981
+delivery_service,1447,1723,0.835,0.994,0.907
